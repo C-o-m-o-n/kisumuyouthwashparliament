@@ -10,7 +10,7 @@
     },
     {
       "id": 5,
-      "image": "/images/I4WASH Kenya Chapter-20250514T070136Z-1-001/I4WASH Kenya Chapter/485746670_122232402134223163_4922848781040188239_n.jpg",
+      "image": "/images/LREB Water Conference 2024-20250514T070105Z-1-001/LREB Water Conference 2024/pic3.jpg",
       "alt": "Youth Training",
       "category": "community",
       "title": "Youth Training",
@@ -18,10 +18,10 @@
     },
     {
       "id": 6,
-      "image": "/images/I4WASH Kenya Chapter-20250514T070136Z-1-001/I4WASH Kenya Chapter/485433875_122232402518223163_235057799939247579_n.jpg",
-      "alt": "Youth Training",
-      "category": "community",
-      "title": "Youth Training",
+      "image": "/images/Kick for Water Campaign-20250521T093827Z-1-001/Kick for Water Campaign/486788053_122234844716223163_2218722667638531683_n.jpg",
+      "alt": "Kick for Water Campaign",
+      "category": "conference",
+      "title": "Kick for Water Campaign",
       "date": "2024"
     },
     {
@@ -112,69 +112,62 @@
       "title": "Research & Innovation",
       "date": "2024"
     },
+    
     {
-      "id": 18,
-      "image": "/images/Bao Beach Tree planting/20240924_130423.jpg",
-      "alt": "Tree Planting",
-      "category": "research",
-      "title": "Tree Planting",
+      "id": 19,
+      "image": "/images/Greening Kisumu GLUK-20250521T094132Z-1-001/Greening Kisumu GLUK/20240910_111653.jpg",
+      "alt": "Greening Kisumu GLUK",
+      "category": "community",
+      "title": "Greening Kisumu GLUK",
       "date": "2024"
     },
     {
-      "id": 19,
-      "image": "/images/wash2.jpg",
-      "alt": "Youth Leadership Workshop",
-      "category": "workshop",
-      "title": "Youth Leadership Workshop",
-      "date": "February 2024"
-    },
-    {
       "id": 20,
-      "image": "/images/wash14.jpg",
-      "alt": "School Sanitation Program",
-      "category": "school",
-      "title": "School Sanitation Program",
-      "date": "January 2024"
+      "image": "/images/I4WASH Kenya Chapter-20250514T070136Z-1-001/I4WASH Kenya Chapter/485704124_122232402506223163_8532885545777675343_n.jpg",
+      "alt": "Youth Training",
+      "category": "community",
+      "title": "Youth Training",
+      "date": "2024"
     },
     {
       "id": 21,
-      "image": "/images/wash1.jpg",
-      "alt": "Community Engagement",
+      "image": "/images/LCOY 2024-20250521T094246Z-1-001/LCOY 2024/20240917_103153.jpg",
+      "alt": "LCOY 2024",
       "category": "community",
-      "title": "Community Engagement",
-      "date": "March 2024"
+      "title": "LCOY 2024",
+      "date": "2024"
     },
     {
       "id": 22,
-      "image": "images/wash19.jpg",
-      "alt": "Annual WASH Conference",
-      "category": "workshop",
-      "title": "Annual WASH Conference",
-      "date": "November 2023"
+      "image": "/images/Citizen Science Training-20250521T093917Z-1-001/Citizen Science Training/482807303_122227461788223163_6063612417061565104_n.jpg",
+      "alt": "Citizen Science Training",
+      "category": "community",
+      "title": "Citizen Science Training",
+      "date": "2024"
     },
     {
       "id": 6,
-      "image": "images/wash20.jpg",
-      "alt": "World Water Day",
-      "category": "community",
-      "title": "World Water Day",
-      "date": "March 2023"
+      "image": "/images/LREB Water Conference 2024-20250514T070105Z-1-001/LREB Water Conference 2024/465970768_17879671116175761_4453736764946635747_n.jpg",
+      "alt": "LREB Water Conference",
+      "category": "conference",
+      "title": "LREB Water Conference",
+      "date": "2024"
     },
     {
       "id": 7,
-      "image": "images/wash11.jpg",
-      "alt": "Clean Water Initiative",
+      "image": "/images/I4WASH Kenya Chapter-20250514T070136Z-1-001/I4WASH Kenya Chapter/485746670_122232402134223163_4922848781040188239_n.jpg",
+      "alt": "Youth Training",
       "category": "community",
-      "title": "Clean Water Initiative",
-      "date": "February 2023"
+      "title": "Youth Training",
+      "date": "2024"
     },
     {
       "id": 8,
-      "image": "images/wash9.jpg",
-      "alt": "Youth Summit",
-      "category": "workshop",
-      "title": "Youth Summit",
-      "date": "January 2023"
+      "image": "/images/Wetlands Day 2025-20250514T073103Z-1-001/Wetlands Day 2025/476095427_17890781247175761_1684280931205494886_n (1).jpg",
+      "alt": "Wetlands Day 2025",
+      "category": "event",
+      "title": "Wetlands Day 2025",
+      "date": "2025"
     }
   ]
 } 
