@@ -1,68 +1,253 @@
 {
   "galleryItems": [
     {
-      "id": 1,
-      "image": "images/wash8.jpg",
-      "alt": "Community Water Project",
-      "category": "community",
-      "title": "Community Water Project",
-      "date": "March 2024"
-    },
-    {
-      "id": 2,
-      "image": "images/wash2.jpg",
-      "alt": "Youth Leadership Workshop",
-      "category": "workshop",
-      "title": "Youth Leadership Workshop",
-      "date": "February 2024"
-    },
-    {
-      "id": 3,
-      "image": "images/wash14.jpg",
-      "alt": "School Sanitation Program",
-      "category": "school",
-      "title": "School Sanitation Program",
-      "date": "January 2024"
-    },
-    {
       "id": 4,
-      "image": "images/wash1.jpg",
-      "alt": "Community Engagement",
+      "image": "/images/National Youth Climate Change and Water Security Innovation Summit-20250514T073446Z-1-001/National Youth Climate Change and Water Security Innovation Summit/pic2.jpg",
+      "alt": "Youth Innovation Summit",
       "category": "community",
-      "title": "Community Engagement",
-      "date": "December 2023"
+      "title": "Youth Innovation Summit",
+      "date": "2024"
     },
     {
       "id": 5,
-      "image": "images/wash19.jpg",
-      "alt": "Annual WASH Conference",
-      "category": "workshop",
-      "title": "Annual WASH Conference",
-      "date": "November 2023"
+      "image": "/images/LREB Water Conference 2024-20250514T070105Z-1-001/LREB Water Conference 2024/pic3.jpg",
+      "alt": "Youth Training",
+      "category": "community",
+      "title": "Youth Training",
+      "date": "2024"
     },
     {
       "id": 6,
-      "image": "images/wash20.jpg",
-      "alt": "World Water Day",
-      "category": "community",
-      "title": "World Water Day",
-      "date": "March 2023"
+      "image": "/images/Kick for Water Campaign-20250521T093827Z-1-001/Kick for Water Campaign/486788053_122234844716223163_2218722667638531683_n.jpg",
+      "alt": "Kick for Water Campaign",
+      "category": "conference",
+      "title": "Kick for Water Campaign",
+      "date": "2024"
     },
     {
       "id": 7,
-      "image": "images/wash11.jpg",
-      "alt": "Clean Water Initiative",
+      "image": "/images/International Day of Peace 2024-20250514T073038Z-1-001/International Day of Peace 2024/482322080_122228844278223163_8208758591064017100_n.jpg",
+      "alt": "Reforestation",
       "category": "community",
-      "title": "Clean Water Initiative",
-      "date": "February 2023"
+      "title": "Reforestation",
+      "date": "2024"
     },
     {
       "id": 8,
-      "image": "images/wash9.jpg",
-      "alt": "Youth Summit",
+      "image": "/images/Kajulu Forest restoration-20250514T070151Z-1-001/Kajulu Forest restoration/20240923_120600.jpg",
+      "alt": "Reforestation",
+      "category": "community",
+      "title": "Reforestation",
+      "date": "2024"
+    },
+    {
+      "id": 9,
+      "image": "/images/Youth Devolution Festival-20250514T070121Z-1-001/Youth Devolution Festival/487134920_122234538014223163_8831938373834666372_n.jpg",
+      "alt": "Youth Devolution Festival",
       "category": "workshop",
-      "title": "Youth Summit",
-      "date": "January 2023"
+      "title": "Youth Devolution Festival",
+      "date": "2024"
+    },
+    {
+      "id": 10,
+      "image": "/images/World AIDS Day 2024-20250514T070132Z-1-001/World AIDS Day 2024/486846566_122234824592223163_2073669129527824281_n.jpg",
+      "alt": "World AIDS Day",
+      "category": "school",
+      "title": "World AIDS Day",
+      "date": "2024"
+    },
+    {
+      "id": 11,
+      "image": "/images/Wetland Regulation-20250514T070049Z-1-001/Wetland Regulation/482875514_17894962626175761_6932934215698818645_n.jpg",
+      "alt": "Community Engagement",
+      "category": "community",
+      "title": "Wetland Regulation",
+      "date": "2024"
+    },
+    {
+      "id": 12,
+      "image": "/images/Stakeholders meeting USAID WKWP-20250514T073205Z-1-001/Stakeholders meeting USAID WKWP/483526195_122229251306223163_1707039372964771832_n.jpg",
+      "alt": "USAID Stakeholder Meeting",
+      "category": "workshop",
+      "title": "USAID Stakeholder Meeting",
+      "date": "2024"
+    },
+    {
+      "id": 13,
+      "image": "/images/Digital Advocacy Training-20250514T073129Z-1-001/Digital Advocacy Training/20241003_102427.jpg",
+      "alt": "Digital Advocacy",
+      "category": "community",
+      "title": "Digital Advocacy",
+      "date": "2024"
+    },
+    {
+      "id": 14,
+      "image": "/images/LREB Water Conference 2024-20250514T070105Z-1-001/LREB Water Conference 2024/466102629_17879671095175761_8336939295138500615_n.jpg",
+      "alt": "Water Conference",
+      "category": "conference",
+      "title": "Water Conference",
+      "date": "2024"
+    },
+    {
+      "id": 15,
+      "image": "/images/Wetlands Day 2025-20250514T073103Z-1-001/Wetlands Day 2025/475637320_17890781298175761_5431133997526744439_n.jpg",
+      "alt": "Wetlands Day",
+      "category": "event",
+      "title": "Wetlands Day",
+      "date": "2025"
+    },
+    {
+      "id": 16,
+      "image": "/images/Nyakach WASH Outreach-20250514T073354Z-1-001/Nyakach WASH Outreach/20240909_133951.jpg",
+      "alt": "WASH Outreach",
+      "category": "outreach",
+      "title": "WASH Outreach",
+      "date": "2024"
+    },
+    {
+      "id": 17,
+      "image": "/images/LREB Water Conference 2024-20250514T070105Z-1-001/LREB Water Conference 2024/465965726_17879671086175761_5795201378709181754_n.jpg",
+      "alt": "Research and Innovation",
+      "category": "research",
+      "title": "Research & Innovation",
+      "date": "2024"
+    },
+    
+    {
+      "id": 19,
+      "image": "/images/Greening Kisumu GLUK-20250521T094132Z-1-001/Greening Kisumu GLUK/20240910_111653.jpg",
+      "alt": "Greening Kisumu GLUK",
+      "category": "community",
+      "title": "Greening Kisumu GLUK",
+      "date": "2024"
+    },
+    {
+      "id": 20,
+      "image": "/images/I4WASH Kenya Chapter-20250514T070136Z-1-001/I4WASH Kenya Chapter/485704124_122232402506223163_8532885545777675343_n.jpg",
+      "alt": "Youth Training",
+      "category": "community",
+      "title": "Youth Training",
+      "date": "2024"
+    },
+    {
+      "id": 21,
+      "image": "/images/LCOY 2024-20250521T094246Z-1-001/LCOY 2024/20240917_103153.jpg",
+      "alt": "LCOY 2024",
+      "category": "community",
+      "title": "LCOY 2024",
+      "date": "2024"
+    },
+    {
+      "id": 22,
+      "image": "/images/Citizen Science Training-20250521T093917Z-1-001/Citizen Science Training/482807303_122227461788223163_6063612417061565104_n.jpg",
+      "alt": "Citizen Science Training",
+      "category": "community",
+      "title": "Citizen Science Training",
+      "date": "2024"
+    },
+    {
+      "id": 6,
+      "image": "/images/LREB Water Conference 2024-20250514T070105Z-1-001/LREB Water Conference 2024/465970768_17879671116175761_4453736764946635747_n.jpg",
+      "alt": "LREB Water Conference",
+      "category": "conference",
+      "title": "LREB Water Conference",
+      "date": "2024"
+    },
+    {
+      "id": 7,
+      "image": "/images/I4WASH Kenya Chapter-20250514T070136Z-1-001/I4WASH Kenya Chapter/485746670_122232402134223163_4922848781040188239_n.jpg",
+      "alt": "Youth Training",
+      "category": "community",
+      "title": "Youth Training",
+      "date": "2024"
+    },
+    {
+      "id": 8,
+      "image": "/images/Wetlands Day 2025-20250514T073103Z-1-001/Wetlands Day 2025/476095427_17890781247175761_1684280931205494886_n (1).jpg",
+      "alt": "Wetlands Day 2025",
+      "category": "event",
+      "title": "Wetlands Day 2025",
+      "date": "2025"
+    },
+    {
+      "id": 23,
+      "image": "/images/Journey of Water-20250521T093322Z-1-001/Journey of Water/476461948_122220157634223163_7512114379123085557_n.jpg",
+      "alt": "Journey of Water",
+      "category": "community",
+      "title": "Journey of Water",
+      "date": "2024"
+    },
+    {
+      "id": 24,
+      "image": "/images/Holo Borehole-20250521T094147Z-1-001/Holo Borehole/20240605_133052.jpg",
+      "alt": "Holo Borehole Project",
+      "category": "community",
+      "title": "Holo Borehole Project",
+      "date": "2024"
+    },
+    {
+      "id": 25,
+      "image": "/images/KWAHO Courtesy Call-20250514T070147Z-1-001/KEWASNET- KWAHO Courtesy Call/20241004_142514.jpg",
+      "alt": "KWAHO Courtesy Call",
+      "category": "community",
+      "title": "KWAHO Courtesy Call",
+      "date": "2024"
+    },
+    {
+      "id": 26,
+      "image": "/images/Kibos WASH School Outreach-20250514T070053Z-1-001/Kibos WASH School Outreach/487241124_122235110342223163_1048789190591448670_n.jpg",
+      "alt": "Kibos WASH School Outreach",
+      "category": "school",
+      "title": "Kibos WASH School Outreach",
+      "date": "2024"
+    },
+    {
+      "id": 27,
+      "image": "/images/Kisumu Central NG-CDF project proposal-20250514T070042Z-1-001/Kisumu Central NG-CDF project proposal/487468620_122234537966223163_8338343999752817308_n.jpg",
+      "alt": "NG-CDF Project Proposal",
+      "category": "community",
+      "title": "NG-CDF Project Proposal",
+      "date": "2024"
+    },
+    {
+      "id": 28,
+      "image": "/images/Media Engagement-20250514T070026Z-1-001/Media Engagement/464470192_17877782604175761_6876968027164229800_n.jpg",
+      "alt": "Media Engagement",
+      "category": "community",
+      "title": "Media Engagement",
+      "date": "2024"
+    },
+    {
+      "id": 29,
+      "image": "/images/National Youth Climate Change and Water Security Innovation Summit-20250514T073446Z-1-001/National Youth Climate Change and Water Security Innovation Summit/476651724_122220511280223163_6723589616993469695_n.jpg",
+      "alt": "National Youth Climate Change and Water Security Innovation Summit",
+      "category": "community",
+      "title": "National Youth Climate Change and Water Security Innovation Summit",
+      "date": "2024"
+    },
+    {
+      "id": 30,
+      "image": "/images/LREB Water Conference 2024-20250514T070105Z-1-001/LREB Water Conference 2024/465963957_17879673450175761_5702444652970748035_n.jpg",
+      "alt": "LREB Water Conference",
+      "category": "conference",
+      "title": "LREB Water Conference",
+      "date": "2024"
+    },
+    {
+      "id": 31,
+      "image": "/images/National Youth Climate Change and Water Security Innovation Summit-20250514T073446Z-1-001/National Youth Climate Change and Water Security Innovation Summit/pic10.jpg",
+      "alt": "Youth Innovation Summit",
+      "category": "event",
+      "title": "Youth Innovation Summit",
+      "date": "2024"
+    },
+    {
+      "id": 32,
+      "image": "/images/Tourism week 2024-20250521T094328Z-1-001/Tourism week 2024/20240924_123952.jpg",
+      "alt": "Tourism Week",
+      "category": "event",
+      "title": "Tourism Week",
+      "date": "2024"
     }
   ]
 } 
