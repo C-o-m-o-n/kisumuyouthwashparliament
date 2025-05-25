@@ -168,6 +168,86 @@
       "category": "event",
       "title": "Wetlands Day 2025",
       "date": "2025"
+    },
+    {
+      "id": 23,
+      "image": "/images/Journey of Water-20250521T093322Z-1-001/Journey of Water/476461948_122220157634223163_7512114379123085557_n.jpg",
+      "alt": "Journey of Water",
+      "category": "community",
+      "title": "Journey of Water",
+      "date": "2024"
+    },
+    {
+      "id": 24,
+      "image": "/images/Holo Borehole-20250521T094147Z-1-001/Holo Borehole/20240605_133052.jpg",
+      "alt": "Holo Borehole Project",
+      "category": "community",
+      "title": "Holo Borehole Project",
+      "date": "2024"
+    },
+    {
+      "id": 25,
+      "image": "/images/KWAHO Courtesy Call-20250514T070147Z-1-001/KEWASNET- KWAHO Courtesy Call/20241004_142514.jpg",
+      "alt": "KWAHO Courtesy Call",
+      "category": "community",
+      "title": "KWAHO Courtesy Call",
+      "date": "2024"
+    },
+    {
+      "id": 26,
+      "image": "/images/Kibos WASH School Outreach-20250514T070053Z-1-001/Kibos WASH School Outreach/487241124_122235110342223163_1048789190591448670_n.jpg",
+      "alt": "Kibos WASH School Outreach",
+      "category": "school",
+      "title": "Kibos WASH School Outreach",
+      "date": "2024"
+    },
+    {
+      "id": 27,
+      "image": "/images/Kisumu Central NG-CDF project proposal-20250514T070042Z-1-001/Kisumu Central NG-CDF project proposal/487468620_122234537966223163_8338343999752817308_n.jpg",
+      "alt": "NG-CDF Project Proposal",
+      "category": "community",
+      "title": "NG-CDF Project Proposal",
+      "date": "2024"
+    },
+    {
+      "id": 28,
+      "image": "/images/Media Engagement-20250514T070026Z-1-001/Media Engagement/464470192_17877782604175761_6876968027164229800_n.jpg",
+      "alt": "Media Engagement",
+      "category": "community",
+      "title": "Media Engagement",
+      "date": "2024"
+    },
+    {
+      "id": 29,
+      "image": "/images/National Youth Climate Change and Water Security Innovation Summit-20250514T073446Z-1-001/National Youth Climate Change and Water Security Innovation Summit/476651724_122220511280223163_6723589616993469695_n.jpg",
+      "alt": "National Youth Climate Change and Water Security Innovation Summit",
+      "category": "community",
+      "title": "National Youth Climate Change and Water Security Innovation Summit",
+      "date": "2024"
+    },
+    {
+      "id": 30,
+      "image": "/images/LREB Water Conference 2024-20250514T070105Z-1-001/LREB Water Conference 2024/465963957_17879673450175761_5702444652970748035_n.jpg",
+      "alt": "LREB Water Conference",
+      "category": "conference",
+      "title": "LREB Water Conference",
+      "date": "2024"
+    },
+    {
+      "id": 31,
+      "image": "/images/National Youth Climate Change and Water Security Innovation Summit-20250514T073446Z-1-001/National Youth Climate Change and Water Security Innovation Summit/pic10.jpg",
+      "alt": "Youth Innovation Summit",
+      "category": "event",
+      "title": "Youth Innovation Summit",
+      "date": "2024"
+    },
+    {
+      "id": 32,
+      "image": "/images/Tourism week 2024-20250521T094328Z-1-001/Tourism week 2024/20240924_123952.jpg",
+      "alt": "Tourism Week",
+      "category": "event",
+      "title": "Tourism Week",
+      "date": "2024"
     }
   ]
 } 
