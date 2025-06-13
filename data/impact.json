@@ -30,6 +30,105 @@
     },
     {
       "id": 3,
+      "title": "Youth Devolution Festival",
+      "subtitle": "Youth Devolution Festival",
+      "description": "KYWP organized the 2nd Youth Devolution Festival, engaging 500+ youth leaders in policy advocacy, skill development, and community engagement. The festival aimed to raise awareness on youth empowerment, promote sustainable development, and build a network of youth leaders for positive change.",
+      "images": [
+        "Youth Devolution Festival-20250514T070121Z-1-001/Youth Devolution Festival/487134920_122234538014223163_8831938373834666372_n.jpg"
+      ],
+      "tag": "YOUTH EMPOWERMENT",
+      "layout": "left"
+    },
+    {
+      "id": 4,
+      "title": "Kisumu Central NG-CDF project proposal",
+      "subtitle": "Digital Advocacy",
+      "description": "KYWP submitted a proposal for the Kisumu Central NG-CDF project, focusing on water and sanitation infrastructure development, training 100+ youth in construction and maintenance skills, and engaging local communities in project implementation. The project aimed to improve access to clean water and sanitation facilities, enhance community hygiene, and promote sustainable development.",
+      "images": [
+        "Kisumu Central NG-CDF project proposal-20250514T070042Z-1-001/Kisumu Central NG-CDF project proposal/487468620_122234537966223163_8338343999752817308_n.jpg"
+      ],
+      "tag": "INFRASTRUCTURE",
+      "layout": "left"
+    },
+    {
+      "id": 5,
+      "title": "Kajulu Forest Restoration",
+      "subtitle": "Forest Restoration",
+      "description": "Restoring 50 hectares of degraded forest land. 2,000+ trees planted, creating sustainable livelihoods for local youth.",
+      "images": [
+        "Kajulu Forest restoration-20250514T070151Z-1-001/Kajulu Forest restoration/20240923_120202.jpg"
+      ],
+      "tag": "ENVIRONMENT",
+      "layout": "left"
+    },
+    {
+      "id": 6,
+      "title": "International Day of Peace",
+      "subtitle": "Peace Day",
+      "description": "Engaging 500+ youth in peace-building activities focused on water resource management and conflict resolution.",
+      "images": [
+        "International Day of Peace 2024-20250514T073038Z-1-001/International Day of Peace 2024/482322080_122228844278223163_8208758591064017100_n.jpg"
+      ],
+      "tag": "PEACE BUILDING",
+      "layout": "left"
+    },
+    {
+      "id": 7,
+      "title": "Fish Fiesta Collaboration",
+      "subtitle": "Fish Fiesta",
+      "description": "Educating 200+ fishermen about sustainable practices, reducing destructive fishing by 30% in targeted areas.",
+      "images": [
+        "Fish Fiesta Collaboration-20250514T073343Z-1-001/Fish Fiesta Collaboration/FB_IMG_1713728192681.jpg"
+      ],
+      "tag": "SUSTAINABILITY",
+      "layout": "left"
+    },
+    {
+      "id": 8,
+      "title": "KWAHO Collaboration",
+      "subtitle": "KWAHO Collaboration",
+      "description": "Implementing rainwater harvesting in 15 schools, training 100+ youth leaders in water management.",
+      "images": [
+        "KWAHO Courtesy Call-20250514T070147Z-1-001/KEWASNET- KWAHO Courtesy Call/20241004_140211.jpg"
+      ],
+      "tag": "EDUCATION",
+      "layout": "left"
+    },
+    {
+      "id": 9,
+      "title": "Kibos WASH School Outreach",
+      "subtitle": "Kibos WASH School Outreach",
+      "description": "KYWP partnered with the Kibos Water and Sanitation Network (KEWASNET) to implement a WASH school outreach program. The initiative reached over 1,000 students, providing hygiene education, installing handwashing facilities, and training teachers on water and sanitation best practices. This program enhanced hygiene practices and reduced waterborne illnesses.",
+      "images": [
+        "Kibos WASH School Outreach-20250514T070053Z-1-001/Kibos WASH School Outreach/pic5.jpg"
+      ],
+      "tag": "EDUCATION",
+      "layout": "left"
+    },
+    {
+      "id": 10,
+      "title": "Youth Innovation Summit",
+      "subtitle": "Youth Innovation Summit",
+      "description": "KYWP convened the National Youth Climate Change and Water Security Innovation Summit to empower young people to develop innovative solutions addressing climate resilience and water security. The summit brought together youth leaders, innovators, policymakers, and experts to share ideas, showcase climate-smart technologies, and foster collaboration towards sustainable water and climate action.",
+      "images": [
+        "National Youth Climate Change and Water Security Innovation Summit-20250514T073446Z-1-001/National Youth Climate Change and Water Security Innovation Summit/pic2.jpg"
+      ],
+      "tag": "INNOVATION",
+      "layout": "left"
+    },
+    {
+      "id": 11,
+      "title": "LREB Water Conference 2024",
+      "subtitle": "LREB Water Conference 2024",
+      "description": "KYWP convened the LREB Water Conference 2024 to address water challenges and promote sustainable water management. The conference featured expert speakers, interactive sessions, and networking opportunities, fostering collaboration and knowledge sharing to improve water security and resource management.",
+      "images": [
+        "LREB Water Conference 2024-20250514T070105Z-1-001/LREB Water Conference 2024/465884093_17879539641175761_3646488350175375311_n.jpg"
+      ],
+      "tag": "CONFERENCE",
+      "layout": "left"
+    },
+    {
+      "id": 12,
       "title": "Partnerships and collaboration",
       "subtitle": "Strengthening WASH Collaboration at the Benchmarking Forum in Lusaka",
       "description": "We were honored to participate in the WASH Benchmarking Forum in Lusaka, Zambia, represented by Adwet Mc'Omondi. This forum provided a platform for sharing expertise, fostering innovation, and building partnerships for sustainable water, sanitation, and hygiene solutions. Collaborations like these drive impactful change in communities, ensuring access to safe water and improved sanitation for all.",

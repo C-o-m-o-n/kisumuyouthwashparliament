@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -118,22 +119,39 @@
                 <img src="../images/youthwashlogo.jpg" alt="KYWP Logo" class="h-16 md:h-20">
             </div>
             <div class="hidden md:flex space-x-8">
-                <a href="/" class="text-text hover:text-secondary transition-colors duration-300">Home</a>
-                <a href="about" class="text-text hover:text-secondary transition-colors duration-300">About</a>
-                <a href="impact" class="text-text hover:text-secondary transition-colors duration-300">Impact</a>
-                <a href="gallery" class="text-text hover:text-secondary transition-colors duration-300">Gallery</a>
-                <a href="contact" class="text-text hover:text-secondary transition-colors duration-300">Contact</a>
+                <a href="/index" class="text-text hover:text-secondary transition-colors duration-300">Home</a>
+                <div class="relative group">
+                    <a href="/about" class="text-text hover:text-secondary transition-colors duration-300 flex items-center">About <i class="fas fa-chevron-down ml-1 text-xs"></i></a>
+                    <div class="absolute left-0 mt-2 w-48 bg-white shadow-lg rounded-md overflow-hidden z-50 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 origin-top-left">
+                        <a href="/about" class="block px-4 py-2 text-sm text-text hover:bg-primary hover:text-white transition-colors duration-200">Overview</a>
+                        <a href="/scope" class="block px-4 py-2 text-sm text-text hover:bg-primary hover:text-white transition-colors duration-200">Our Scope</a>
+                        <a href="/thematic-areas" class="block px-4 py-2 text-sm text-text hover:bg-primary hover:text-white transition-colors duration-200">Thematic Areas</a>
+                    </div>
+                </div>
+                <a href="/impact" class="text-text hover:text-secondary transition-colors duration-300">Impact</a>
+                <a href="/gallery" class="text-text hover:text-secondary transition-colors duration-300">Gallery</a>
+                <a href="/contact" class="text-text hover:text-secondary transition-colors duration-300">Contact</a>
             </div>
             <a href="#donate" class="hidden md:inline-block px-6 py-2 bg-secondary text-white rounded-md hover:bg-secondary/80 transition-all duration-300 hover:-translate-y-0.5">Donate</a>
             <button class="md:hidden text-text hover:text-primary">
                 <i class="fas fa-bars text-2xl"></i>
             </button>
             <div class="absolute top-full left-0 right-0 bg-white shadow-lg hidden flex-col nav-links">
-                <a href="/" class="block text-text hover:text-secondary transition-colors duration-300 p-4">Home</a>
-                <a href="about" class="block text-text hover:text-secondary transition-colors duration-300 p-4">About</a>
-                <a href="impact" class="block text-text hover:text-secondary transition-colors duration-300 p-4">Impact</a>
-                <a href="gallery" class="block text-text hover:text-secondary transition-colors duration-300 p-4">Gallery</a>
-                <a href="contact" class="block text-text hover:text-secondary transition-colors duration-300 p-4">Contact</a>
+                <a href="/index" class="block text-text hover:text-secondary transition-colors duration-300 p-4">Home</a>
+                <div class="mobile-dropdown">
+                    <div class="flex justify-between items-center p-4 text-text hover:text-secondary transition-colors duration-300">
+                        <a href="/about" class="block">About</a>
+                        <button class="mobile-dropdown-toggle"><i class="fas fa-chevron-down text-xs"></i></button>
+                    </div>
+                    <div class="mobile-dropdown-content hidden pl-4 bg-gray-50">
+                        <a href="/about" class="block text-text hover:text-secondary transition-colors duration-300 p-4">Overview</a>
+                        <a href="/scope" class="block text-text hover:text-secondary transition-colors duration-300 p-4">Our Scope</a>
+                        <a href="/thematic-areas" class="block text-text hover:text-secondary transition-colors duration-300 p-4">Thematic Areas</a>
+                    </div>
+                </div>
+                <a href="/impact" class="block text-text hover:text-secondary transition-colors duration-300 p-4">Impact</a>
+                <a href="/gallery" class="block text-text hover:text-secondary transition-colors duration-300 p-4">Gallery</a>
+                <a href="/contact" class="block text-text hover:text-secondary transition-colors duration-300 p-4">Contact</a>
             </div>
         </nav>
     </header>
@@ -141,7 +159,7 @@
     <!-- Hero Section -->
     <section class="relative bg-cover bg-center text-white py-48 pt-32 overflow-hidden">
         <div class="absolute inset-0 z-0">
-            <img src="../images/wash21.jpg" alt="Water Background" class="absolute inset-0 w-full h-full object-cover" />
+            <img src="/images/Kibos WASH School Outreach-20250514T070053Z-1-001/Kibos WASH School Outreach/pic5.jpg" alt="Water Background" class="absolute inset-0 w-full h-screen object-cover" />
             <div class="absolute inset-0 bg-secondary/30"></div>
         </div>
         
@@ -161,10 +179,159 @@
         <div class="container mx-auto px-6 md:px-12 lg:px-24">
             <div class="text-center mb-16">
                 <h2 class="text-4xl font-bold text-primary mb-4">Our Impact Stories</h2>
-                <p class="text-gray-600 text-lg max-w-3xl mx-auto">Discover how our initiatives are creating positive change in communities</p>
+                <p class="text-gray text-lg max-w-3xl mx-auto">Discover our journey and the impact we've made in the community</p>
             </div>
-            <!-- Impact stories will be dynamically loaded here -->
-            <div class="impact-stories"></div>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+                <!-- Impact Story 1 -->
+                <div class="bg-white rounded-xl shadow-xl overflow-hidden transform transition-all duration-300 hover:-translate-y-2 hover:shadow-2xl">
+                    <div class="h-56 overflow-hidden relative">
+                        <img src="/images/Youth Devolution Festival-20250514T070121Z-1-001/Youth Devolution Festival/487134920_122234538014223163_8831938373834666372_n.jpg" alt="Youth Devolution Festival" class="w-full h-full object-cover transition-transform duration-500 hover:scale-110">
+                        <div class="absolute inset-0 bg-gradient-to-t from-black/70 to-transparent flex items-end">
+                            <h3 class="text-2xl font-bold text-white p-6">Youth Devolution Festival</h3>
+                        </div>
+                    </div>
+                    <div class="p-6">
+                        <p class="text-gray-600">KYWP organized the 2nd Youth Devolution Festival, engaging 500+ youth leaders in policy advocacy, skill development, and community engagement. 
+                            The festival aimed to raise awareness on youth empowerment, promote sustainable development, and build a network of youth leaders for positive change.</p>
+                        <div class="mt-4 flex items-center text-primary font-medium">
+                            <span>Learn More</span>
+                            <i class="fas fa-arrow-right ml-2"></i>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Impact Story 2 -->
+                <div class="bg-white rounded-xl shadow-xl overflow-hidden transform transition-all duration-300 hover:-translate-y-2 hover:shadow-2xl">
+                    <div class="h-56 overflow-hidden relative">
+                        <img src="/images/Kisumu Central NG-CDF project proposal-20250514T070042Z-1-001/Kisumu Central NG-CDF project proposal/487468620_122234537966223163_8338343999752817308_n.jpg" alt="Digital Advocacy" class="w-full h-full object-cover transition-transform duration-500 hover:scale-110">
+                        <div class="absolute inset-0 bg-gradient-to-t from-black/70 to-transparent flex items-end">
+                            <h3 class="text-2xl font-bold text-white p-6">Kisumu Central NG-CDF project proposal</h3>
+                        </div>
+                    </div>
+                    <div class="p-6">
+                        <p class="text-gray-600">KYWP submitted a proposal for the Kisumu Central NG-CDF project, focusing on water and sanitation infrastructure development, 
+                            training 100+ youth in construction and maintenance skills, and engaging local communities in project implementation. 
+                            The project aimed to improve access to clean water and sanitation facilities, enhance community hygiene, and promote sustainable development.</p>
+                        <div class="mt-4 flex items-center text-primary font-medium">
+                            <span>Learn More</span>
+                            <i class="fas fa-arrow-right ml-2"></i>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Impact Story 3 -->
+                <div class="bg-white rounded-xl shadow-xl overflow-hidden transform transition-all duration-300 hover:-translate-y-2 hover:shadow-2xl">
+                    <div class="h-56 overflow-hidden relative">
+                        <img src="/images/Kajulu Forest restoration-20250514T070151Z-1-001/Kajulu Forest restoration/20240923_120202.jpg" alt="Forest Restoration" class="w-full h-full object-cover transition-transform duration-500 hover:scale-110">
+                        <div class="absolute inset-0 bg-gradient-to-t from-black/70 to-transparent flex items-end">
+                            <h3 class="text-2xl font-bold text-white p-6">Kajulu Forest Restoration</h3>
+                        </div>
+                    </div>
+                    <div class="p-6">
+                        <p class="text-gray-600">Restoring 50 hectares of degraded forest land. 2,000+ trees planted, creating sustainable livelihoods for local youth.</p>
+                        <div class="mt-4 flex items-center text-primary font-medium">
+                            <span>Learn More</span>
+                            <i class="fas fa-arrow-right ml-2"></i>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Impact Story 4 -->
+                <div class="bg-white rounded-xl shadow-xl overflow-hidden transform transition-all duration-300 hover:-translate-y-2 hover:shadow-2xl">
+                    <img src="/images/International Day of Peace 2024-20250514T073038Z-1-001/International Day of Peace 2024/482322080_122228844278223163_8208758591064017100_n.jpg" alt="Peace Day" class="w-full h-48 object-cover">
+                    <div class="p-6">
+                        <h3 class="text-xl font-bold text-secondary mb-3">International Day of Peace</h3>
+                        <p class="text-gray-600">Engaging 500+ youth in peace-building activities focused on water resource management and conflict resolution.</p>
+                        <div class="mt-4 flex items-center text-primary font-medium">
+                            <span>Learn More</span>
+                            <i class="fas fa-arrow-right ml-2"></i>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Impact Story 5 -->
+                <div class="bg-white rounded-xl shadow-xl overflow-hidden transform transition-all duration-300 hover:-translate-y-2 hover:shadow-2xl">
+                    <img src="/images/Fish Fiesta Collaboration-20250514T073343Z-1-001/Fish Fiesta Collaboration/FB_IMG_1713728192681.jpg" alt="Fish Fiesta" class="w-full h-48 object-cover">
+                    <div class="p-6">
+                        <h3 class="text-xl font-bold text-secondary mb-3">Fish Fiesta Collaboration</h3>
+                        <p class="text-gray-600">Educating 200+ fishermen about sustainable practices, reducing destructive fishing by 30% in targeted areas.</p>
+                        <div class="mt-4 flex items-center text-primary font-medium">
+                            <span>Learn More</span>
+                            <i class="fas fa-arrow-right ml-2"></i>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Impact Story 6 -->
+                <div class="bg-white rounded-xl shadow-xl overflow-hidden transform transition-all duration-300 hover:-translate-y-2 hover:shadow-2xl">
+                    <img src="/images/KWAHO Courtesy Call-20250514T070147Z-1-001/KEWASNET- KWAHO Courtesy Call/20241004_140211.jpg" alt="KWAHO Collaboration" class="w-full h-48 object-cover">
+                    <div class="p-6">
+                        <h3 class="text-xl font-bold text-secondary mb-3">KWAHO Collaboration</h3>
+                        <p class="text-gray-600">Implementing rainwater harvesting in 15 schools, training 100+ youth leaders in water management.</p>
+                        <div class="mt-4 flex items-center text-primary font-medium">
+                            <span>Learn More</span>
+                            <i class="fas fa-arrow-right ml-2"></i>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Impact Story 7 -->
+                <div class="bg-white rounded-xl shadow-xl overflow-hidden transform transition-all duration-300 hover:-translate-y-2 hover:shadow-2xl">
+                    <div class="h-56 overflow-hidden relative">
+                        <img src="/images/Kibos WASH School Outreach-20250514T070053Z-1-001/Kibos WASH School Outreach/pic5.jpg" alt="Kibos WASH School Outreach" class="w-full h-full object-cover transition-transform duration-500 hover:scale-110">
+                        <div class="absolute inset-0 bg-gradient-to-t from-black/70 to-transparent flex items-end">
+                            <h3 class="text-2xl font-bold text-white p-6">Kibos WASH School Outreach</h3>
+                        </div>
+                    </div>
+                    <div class="p-6">
+                        <p class="text-gray-600">KYWP partnered with the Kibos Water and Sanitation Network (KEWASNET) to implement a WASH school outreach program. 
+                            The initiative reached over 1,000 students, providing hygiene education, installing handwashing facilities, 
+                            and training teachers on water and sanitation best practices. This program enhanced hygiene practices and reduced waterborne illnesses.</p>
+                        <div class="mt-4 flex items-center text-primary font-medium">
+                            <span>Learn More</span>
+                            <i class="fas fa-arrow-right ml-2"></i>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Impact Story 8 -->
+                <div class="bg-white rounded-xl shadow-xl overflow-hidden transform transition-all duration-300 hover:-translate-y-2 hover:shadow-2xl">
+                    <div class="h-56 overflow-hidden relative">
+                        <img src="/images/National Youth Climate Change and Water Security Innovation Summit-20250514T073446Z-1-001/National Youth Climate Change and Water Security Innovation Summit/pic2.jpg" alt="Youth Innovation Summit" class="w-full h-full object-cover transition-transform duration-500 hover:scale-110">
+                        <div class="absolute inset-0 bg-gradient-to-t from-black/70 to-transparent flex items-end">
+                            <h3 class="text-2xl font-bold text-white p-6">Youth Innovation Summit</h3>
+                        </div>
+                    </div>
+                    <div class="p-6">
+                        <p class="text-gray-600">KYWP convened the National Youth Climate Change and Water Security Innovation Summit to empower young people to develop innovative solutions addressing climate resilience and water security. The summit brought together youth leaders, 
+                        innovators, policymakers, and experts to share ideas, showcase climate-smart technologies,
+                         and foster collaboration towards sustainable water and climate action.</p>
+                        <div class="mt-4 flex items-center text-primary font-medium">
+                            <span>Learn More</span>
+                            <i class="fas fa-arrow-right ml-2"></i>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Impact Story 9 -->
+                <div class="bg-white rounded-xl shadow-xl overflow-hidden transform transition-all duration-300 hover:-translate-y-2 hover:shadow-2xl">
+                    <div class="h-56 overflow-hidden relative">
+                        <img src="/images/LREB Water Conference 2024-20250514T070105Z-1-001/LREB Water Conference 2024/465884093_17879539641175761_3646488350175375311_n.jpg" alt="LREB Water Conference 2024" class="w-full h-full object-cover transition-transform duration-500 hover:scale-110">
+                        <div class="absolute inset-0 bg-gradient-to-t from-black/70 to-transparent flex items-end">
+                            <h3 class="text-2xl font-bold text-white p-6">LREB Water Conference 2024</h3>
+                        </div>
+                    </div>
+                    <div class="p-6">
+                        <p class="text-gray-600">KYWP convened the LREB Water Conference 2024 to address water challenges and promote sustainable water management. 
+                            The conference featured expert speakers, interactive sessions, and networking opportunities, 
+                            fostering collaboration and knowledge sharing to improve water security and resource management.</p>
+                        <div class="mt-4 flex items-center text-primary font-medium">
+                            <span>Learn More</span>
+                            <i class="fas fa-arrow-right ml-2"></i>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </section>
 
