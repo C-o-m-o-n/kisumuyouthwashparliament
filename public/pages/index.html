@@ -4,7 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kisumu Youth WASH Parliament</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="../css/styles.css">
     <script src="https://cdn.tailwindcss.com"></script>
+    <script src="../js/config.js"></script>
     <script>
         tailwind.config = {
             theme: {
@@ -24,16 +28,13 @@
             }
         }
     </script>
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-    
 </head>
 <body class="font-poppins text-text">
     <!-- Header/Navigation -->
     <header class="fixed w-full bg-white shadow-md z-50">
         <nav class="container mx-auto px-6 md:px-12 lg:px-24 py-2 flex justify-between items-center">
             <div class="logo">
-                <img src="images/youthwashlogo.jpg" alt="KYWP Logo" class="h-16 mdlh-20">
+                <img src="https://res.cloudinary.com/dqb01jzej/image/upload/v1749860091/youthwash/logo.jpg" alt="KYWP Logo" class="h-16 md:h-20">
             </div>
             <div class="hidden md:flex space-x-8">
                 <a href="/index" class="text-text hover:text-secondary transition-colors duration-300">Home</a>
@@ -74,7 +75,7 @@
     </header>
 
     <!-- Hero Section -->
-    <section id="home" class="relative h-screen w-screen text-white flex items-center overflow-hidden">
+    <section class="relative bg-cover bg-center text-white py-48 pt-32 overflow-hidden" style="background-image: url('CLOUDINARY_URLS.events.greeningKisumu');">
         <!-- Background image container -->
         <div id="hero-bg" class="absolute inset-0 bg-cover bg-center bg-no-repeat">
             <div class="absolute inset-0 bg-black opacity-50"></div>
